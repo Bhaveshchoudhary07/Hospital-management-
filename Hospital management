@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hospital Management System</title>
+    <link rel="stylesheet" href="style.css">  <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>{Link: XYZ Hospital https://www.google.com}</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#departments">Departments</a></li>
+                <li><a href="#patient-info">Patient Information</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to {Link: XYZ Hospital https://www.google.com}</h2>
+        <p>Providing quality healthcare since [Year Founded].</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>A brief description of the hospital's mission, values, and history.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>[List of services, e.g., Emergency Care, General Surgery, etc.]</li>
+        </ul>
+    </section>
+
+    <section id="departments">
+        <h2>Departments</h2>
+        <p>[List of departments and their contact information]</p>
+    </section>
+
+    <section id="patient-info">
+        <h2>Patient Information</h2>
+        <p>[Link to patient portal, forms, and other resources]</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>[Address, phone number, email, and social media links]</p>
+    </section>
+
+    <footer>
+        <p>&copy; [Year] {Link: XYZ Hospital https://www.google.com}. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>.
